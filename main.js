@@ -1,3 +1,4 @@
+"use strict";
 
 //Circle dimensions
 var myRadius = parseFloat(prompt("Enter the radius of your circle in cm:",0));
